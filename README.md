@@ -6,4 +6,4 @@
 
 ## 使用方法
 
-在Magisk里选择本地导入模块，选择从Release里下载的yahaha.zip
+在Magisk里选择本地导入模块，选择从Release里下载的yahaha.zip，安装完成后重启手机
